@@ -1,7 +1,15 @@
+# Table of Content
+- [The Business Problem](URL)
+- [Dataset Overview](URL)
+- [Dashboard Overview](URL)
+- [Key Findings](URL)
+- [Recommendations](URL)
+- [Tools Used](URL)
+
 # The Business Problem
 The project addresses the challenge of analysing audit findings, identifying risk patterns and monitoring corrective actions across multiple branches and business processes. Using Power BI, I consolidated and visualised 208 audit records across four branches to monitor audit completion, risk ratings, audit outcomes and corrective actions, supporting risk-based decision-making and identifying areas requiring further investigation.
 
-# Objectives
+## Objectives
 What business value does it provide?
 The dashboard provides a consolidated view of audit activity and helps users:
 - Identify branches and processes with concerning audit outcomes.
@@ -62,17 +70,17 @@ Remediation and redressal rates
 Corrective actions
 High-risk audit observations
 
-# Dashboard
-# Executive Audit Overview
+# Dashboard Overview
+## Executive Audit Overview
 Provides an overview of audit activity, completion status, audit outcomes and key audit KPIs.
 
-# Risk & Control Analysis
+## Risk & Control Analysis
 Analyses risk ratings, audit findings, business processes, branches and control exceptions.
 
-# Remediation & Corrective Action
+## Remediation & Corrective Action
 Analyses redressal progress and corrective actions associated with audit findings.
 
-# Audit Exception Register
+## Audit Exception Register
 Provides detailed analysis of audit exceptions, including risk rating, significance, observations, redressal and corrective actions.
 
 # Skills Demonstrated
