@@ -48,8 +48,36 @@ The dataset contains 208 audit records across four branches, covering multiple a
 | Fines | 44 | Records with a fine action |
 
 
+# Dashboard Overview
+## Executive Audit Overview
+- Provides a high-level summary of audit performance across four branches, highlighting total audits, completion rates, unsatisfactory findings, warnings and fines. It helps management quickly understand overall audit activity and outcomes.
 
-# Tools & Technologies
+## Risk & Control Analysis
+- Examines risk ratings, audit findings and observations across branches and business processes. It helps identify risk patterns and areas that may require further investigation or additional audit attention.
+
+## Remediation & Corrective Action
+- Analyses recorded redressal percentages and corrective actions across branches and business processes. It helps users review progress in addressing audit findings and identify areas where further follow-up may be necessary.
+
+## Audit Exception Register
+- Provides a detailed view of individual audit records, including observations, risk ratings, significance, instances, redressal, results and actions taken. It enables users to examine specific findings and identify exceptions requiring further review.
+
+# Key Findings
+- Audit outcomes: 80.2% of completed audits were rated below satisfactory, indicating areas requiring improvement.
+- Highest-risk process: Inventory Management recorded the highest average risk rating of 1.64.
+- Lowest redressal: Disposal Management had the lowest average redressal percentage at 48.2%.
+- Branch performance: West recorded the highest number of instances (2,789) and the highest average risk rating (1.40).
+- Audit completion: The overall completion rate was 87.5%, with 182 of 208 audits marked complete.
+- Corrective actions: The dataset recorded 102 warnings and 44 fines, with warnings being more common.
+
+# Recommendations
+- Strengthen inventory controls: Review Inventory Management processes because they recorded the highest average risk rating of 1.64.
+- Improve remediation monitoring: Investigate the low redressal percentage in Disposal Management (48.2%) and follow up on outstanding audit observations.
+- Review West branch controls: Investigate the high number of recorded instances and average risk rating to identify underlying causes and potential control weaknesses.
+- Address recurring audit issues: Analyse repeated observations across branches and business processes to identify root causes and develop corrective action plans.
+- Improve audit completion: Follow up on the 26 audits marked as in process or planned to improve monitoring and completion rates.
+
+
+# Tools Used 
 Power BI
 Power Query
 DAX
@@ -58,30 +86,6 @@ Data Modelling
 Data Cleaning & Transformation
 Audit Analytics
 
-# Key Analysis
-The dashboard analyses:
-Audit completion status
-Audit results
-Risk ratings
-Control exceptions
-Findings by business process
-Findings by branch
-Remediation and redressal rates
-Corrective actions
-High-risk audit observations
-
-# Dashboard Overview
-## Executive Audit Overview
-Provides an overview of audit activity, completion status, audit outcomes and key audit KPIs.
-
-## Risk & Control Analysis
-Analyses risk ratings, audit findings, business processes, branches and control exceptions.
-
-## Remediation & Corrective Action
-Analyses redressal progress and corrective actions associated with audit findings.
-
-## Audit Exception Register
-Provides detailed analysis of audit exceptions, including risk rating, significance, observations, redressal and corrective actions.
 
 # Skills Demonstrated
 Power BI | Power Query | DAX | Data Modelling | Audit Analytics | Risk Analysis | Control Analysis | Data Visualisation | Excel
